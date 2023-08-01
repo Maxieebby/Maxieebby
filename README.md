@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Maxieebby
-- 👀 I’m interested in ...Remote Jobs
-- 🌱 I’m currently learning ... videography
-- 💞️ I’m looking to collaborate on ... available gigs
+- 👀 I’m interested in ...Ux/UI desig
+- 🌱 I’m currently learning ... python language 
+- 💞️ I’m looking to collaborate on ... others
 - 📫 How to reach me ... ebbymaxie@gmail.com
 
 <!---
